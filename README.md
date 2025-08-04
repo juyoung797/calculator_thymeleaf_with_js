@@ -46,4 +46,4 @@ calculator_thymeleaf_with_js/
 - Spring Boot
 - Thymeleaf
 - JavaScript (ES6)
-- CSS
+- CSS 
